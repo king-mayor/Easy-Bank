@@ -247,6 +247,7 @@ footer{
     .easy-intro {
        text-align: center;
        width: 300px;
+       padding-left: 0;
     }
     .digital-banking img{
         width: 250px;

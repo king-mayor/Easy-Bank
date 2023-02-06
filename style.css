@@ -76,7 +76,7 @@ body, html {
     align-items: center;
 }
 .banking-img {
-    background-image: url(images/bg-intro-desktop.svg);
+    background-image: url(./IMAGES/bg-intro-desktop.svg);
      background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

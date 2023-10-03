@@ -85,7 +85,7 @@ body, html {
     font-size: 1.3em;
     color: var(--dark-text-color);
     padding-top: 10px;
-    line-height: 20px;
+    line-height: 40px;
 }
 .easy-intro {
     width: 350px;
@@ -101,7 +101,7 @@ body, html {
 .banking-divs p {
     font-size: 1.3em;
     color: var(--dark-text-color);
-    line-height: 20px;
+    line-height: 40px;
 }
 .bank1 {
     width: 200px;
@@ -138,7 +138,7 @@ body, html {
 }
 .container1 p {
     font-size:  1.3em;
-    line-height: 20px;
+    line-height: 40px;
     color: var(--dark-text-color);
 }
 .container1 {

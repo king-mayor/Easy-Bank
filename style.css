@@ -40,6 +40,8 @@ body, html {
     display: flex;
     justify-content: space-around;
     padding-top: 20px;
+    position: sticky;
+    top: 0px;
 }
 .digital-banking img{
     width: 300px;

@@ -49,7 +49,7 @@ body, html {
     width: 200px;
 }
 .digital-banking p {
-    font-size: 0.8em;
+    font-size: 1.3em;
     color: var(--dark-text-color);
     width: 300px;
     padding: 20px 0px;
@@ -82,7 +82,7 @@ body, html {
     background-repeat: no-repeat;
 }
 .easy-intro p {
-    font-size: 0.8em;
+    font-size: 1.3em;
     color: var(--dark-text-color);
     padding-top: 10px;
     line-height: 20px;
@@ -95,11 +95,11 @@ body, html {
     width: 50px;
 }
 .banking-divs h2 {
-    font-size: 1.2em;
+    font-size: 1.7em;
     padding: 10px 0px;
 }
 .banking-divs p {
-    font-size: 0.8em;
+    font-size: 1.3em;
     color: var(--dark-text-color);
     line-height: 20px;
 }
@@ -129,7 +129,7 @@ body, html {
     height: 150px;
 }
 .container1 h3 {
-    font-size: 1em;
+    font-size: 1.7em;
     padding: 5px 0px;
 }
 .container1 h6 {
@@ -137,7 +137,7 @@ body, html {
     color: var(--dark-text-color);
 }
 .container1 p {
-    font-size:  0.7em;
+    font-size:  1.3em;
     line-height: 20px;
     color: var(--dark-text-color);
 }
@@ -157,7 +157,7 @@ body, html {
 }
 .footer-divs ul li a {
     text-decoration: none;
-    font-size: 0.8em;
+    font-size: 1.3em;
     color: hsl(0, 0%, 98%);
 }
 .footer-divs button {
@@ -174,7 +174,7 @@ body, html {
     border: 2px solid #6fbe74;
 }
 .footer-divs p {
-    font-size: 0.8em;
+    font-size: 1.3em;
     color: hsl(0, 0%, 98%);
     padding-top: 20px;
 }

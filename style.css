@@ -219,7 +219,7 @@ footer{
     }
     .nav-links ul li a {
         line-height: 40px;
-        font-size: 1.3em;
+        font-size: 0.8em;
     }
     .nav-links ul li:hover {
         background-color: #6fbe74;

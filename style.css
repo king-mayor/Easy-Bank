@@ -40,9 +40,6 @@ body, html {
     display: flex;
     justify-content: space-around;
     padding-top: 20px;
-    position: sticky;
-    top: 0px;
-    z-index: 20;
 }
 .digital-banking img{
     width: 300px;
@@ -211,6 +208,11 @@ footer{
     cursor: pointer;
 }
 @media all and (max-width: 600px){
+    .header-section {
+    position: sticky;
+    top: 0px;
+    z-index: 20;
+    }
     .request-btn {
         display: none;
     }
